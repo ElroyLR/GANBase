@@ -260,4 +260,19 @@ CUDA_VISIBLE_DEVICES=0 python script/train.py --project_path your_project_dir --
 
 
 
+## Citation
 
+If you use this code or framework in your research, please cite it as follows:
+
+### BibTeX
+```bibtex
+@software{zhang_2026_zenodo,
+  author       = {Zhang, Y. and Ren, Z.},
+  title        = {code of "Genome-Guided Generative Adversarial Learning enables nanopore adaptive sequencing"},
+  month        = may,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.20313289},
+  url          = {[https://doi.org/10.5281/zenodo.20313289](https://doi.org/10.5281/zenodo.20313289)}
+}
